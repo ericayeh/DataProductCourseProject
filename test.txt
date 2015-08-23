@@ -1,0 +1,48 @@
+SUMMARY
+A highly motivated Computer Science and Engineering graduate with a comprehensive knowledge of engineering design and a research background in statistical analysis, seeking a career opportunity in the realm of data science.
+TECHNICAL SKILLS
+Software and Software Packages:
+MATLAB, R RStudio, Git
+Eclipse | Arduino
+TOAD for Oracle 11g
+Programming Languages:
+C, C++, Java
+MATLAB  R
+Python
+SQL | PL/SQL
+Languages: Fluent in English and French
+Operating Systems:
+Virtualization
+Windows 7/VISTA/XP/98
+UNIX | Linux - Red Hat
+Certifications: CompTIA Security +
+PROFESSIONAL EXPERIENCE
+Tech Mahindra, Plano, TX March 2014 – Present
+Jr. Software Engineer (Financial Applications Support)
+Provide basic and advanced support for all assigned applications
+Run and create SQL queries in TOAD for Oracle to support assigned applications
+Deliver timely resolution to reported issues
+Escalate issues to the development team when required
+Monitor the ticketing system for new reported issues
+Create and/or update applications support documentation and SharePoint sites
+University of North Texas, Denton, TX September 2008 – December 2013
+Teaching Fellow | Research Assistant | Teaching Assistant
+Designed and taught EENG 1920-Introduction to Electrical Engineering (Introduction to MATLAB, LabVIEW, the use of Lab Equipment such as oscilloscope, function generator, power supply, and DAQ boards, and the processes involved in Engineering Design)
+Conducted research on Zero-Knowledge Proof based Node Authentication (with the AFRL)
+Conducted research on energy efficient schemes and data estimation in sensor networks
+Helped designed and assisted with EENG 1910-Learning to Learn
+Taught EENG 2620-Signals and Systems (Summer-2012)
+Assisted with EENG 5900 – Hardware Design Methodologies & EENG 5940 – Wireless Communications
+Assisted professors and students within the Electrical Engineering Department
+EDUCATION
+University of North Texas, Denton, TX
+PhD, Computer Science and Engineering GPA: 4.00 December 2013
+Relevant Courses: Database Systems, Data Science, Probability, Pattern Recognition, Estimation Theory, Numerical Analysis, Linear Algebra, Applied Math, Statistical Signal Processing, Multivariable Calculus
+MS, Electrical Engineering GPA: 4.00 December 2009
+BS, Electrical Engineering / Minor: Math GPA: 3.73 August 2008
+RELATED ACADEMIC PROJECTS
+Dissertation on Statistical Strategies for Efficient Signal Detection and Parameter Estimation in Wireless Sensor Networks (Employed Methods: hypothesis testing, likelihood ratio test, curve fitting, maximum likelihood estimation, Monte Carlo simulations, Neyman-Pearson lemma) 2013
+Analysis of data in R - regression analysis, machine learning, boosting, random forests, estimation, cross-validation, prediction
+Classification of flute recordings using k-nearest neighbors (for emotion detection) in MATLAB 2012
+Design of a Time and Attendance Monitoring System using Visual Basic and Excel 2011
+Social Networking Database System Design using SQL 2010
